@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krishnakanth-G
-- 👀 I’m interested in Deep learning
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Machine learning
 - 📫 How to reach me ... guntakrishnakanth@gmail.com
 
 <!---
